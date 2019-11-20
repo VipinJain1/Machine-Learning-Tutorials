@@ -1,3 +1,8 @@
+# Comparison of Machine Learning Algorithms:
+
+http://www.cs.cmu.edu/~aarti/Class/10701/MLAlgo_Comparisons.pdf
+
+
 # Dim Reduction:
 
 https://sebastianraschka.com/Articles/2014_python_lda.html
