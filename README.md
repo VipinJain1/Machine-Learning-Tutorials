@@ -1,3 +1,9 @@
+
+# Great Implementation of Stochastic Gradient descent for Linear Regression
+
+https://github.com/premvardhan/Stochastic-Gradient-descent-in-python/blob/master/LinearRegression_on_bostan_house_price_using_SGD_reopen.ipynb
+
+
 # Comparison of Machine Learning Algorithms:
 
 http://www.cs.cmu.edu/~aarti/Class/10701/MLAlgo_Comparisons.pdf
